@@ -42,9 +42,9 @@
 </script>
 
 <script lang="ts">
+    import '../global.css';
     import '$icons/output/web-icon.css';
     import '$scss/index.scss';
-    import '../global.css';
 
     import { browser, dev } from '$app/environment';
     import { navigating, page, updated } from '$app/stores';
