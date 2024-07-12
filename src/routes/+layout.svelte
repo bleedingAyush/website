@@ -42,7 +42,7 @@
 </script>
 
 <script lang="ts">
-    import '../global.css';
+    import '../app.css';
     import '$icons/output/web-icon.css';
     import '$scss/index.scss';
 
